@@ -1,0 +1,1 @@
+you can see our logos in [this page](https://ctrl-alt-defeat-icpc.github.io/logo)
